@@ -1,0 +1,16 @@
+{
+  "name": "orca-webscrape",
+  "version": "1.0.0",
+  "description": "yay",
+  "main": "index.js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "yikuan",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.7.0"
+  }
+}
